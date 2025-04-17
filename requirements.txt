@@ -1,0 +1,10 @@
+streamlit as st
+cv2
+numpy as np
+pytesseract
+easyocr
+PIL import Image
+re
+pandas as pd
+os
+matplotlib.pyplot as plt
